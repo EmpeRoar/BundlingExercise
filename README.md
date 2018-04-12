@@ -1,7 +1,7 @@
 # BundlingExercise <br/>
 <br/>
 1. npm i webpack -g <--- for global <br/>
-2. npm i webpack <--- for project dir <br/>
+2. npm i webpack --save-dev <--- for project dir <br/>
 3. create webpack.config.js <br/>
 <br/><br/>
 module.exports = { <br/>
