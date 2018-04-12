@@ -26,3 +26,8 @@ export let employee = function(){ <br/>
 app.js <br/>
 import { employee } from './lib/employee'; <br/>
 console.log(employee()); <br/>
+
+<br /><br />
+# WOrking with Jquery
+<br /><br />
+npm install imports-loader
