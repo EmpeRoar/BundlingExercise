@@ -30,4 +30,8 @@ console.log(employee()); <br/>
 <br /><br />
 # WOrking with Jquery
 <br /><br />
-npm install imports-loader
+npm install jquery <br />
+npm install imports-loader <br /><br />
+
+
+import $ from 'jquery';
