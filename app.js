@@ -1,7 +1,14 @@
-"use strict";
-
 import { employee } from './lib/employee';
 import { jq } from './lib/jq';
-console.log(employee());
+import { d3fx } from './lib/d3';
 
-jq();
+jq().jqx.then((d) => {
+   console.log("done!");
+
+   d3fx();
+});
+
+
+
+
+
